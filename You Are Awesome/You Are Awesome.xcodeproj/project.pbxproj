@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		5E2E0E062EBBF05D00E26C75 /* You Are Awesome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "You Are Awesome.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5E2E0E1D2EBBF13700E26C75 /* You Are Awesome.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "You Are Awesome.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		5E2E0E082EBBF05D00E26C75 /* You Are Awesome */ = {
+		5E2E0E1F2EBBF13700E26C75 /* You Are Awesome */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "You Are Awesome";
 			sourceTree = "<group>";
@@ -19,7 +19,7 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		5E2E0E032EBBF05D00E26C75 /* Frameworks */ = {
+		5E2E0E1A2EBBF13700E26C75 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5E2E0DFD2EBBF05D00E26C75 = {
+		5E2E0E142EBBF13700E26C75 = {
 			isa = PBXGroup;
 			children = (
-				5E2E0E082EBBF05D00E26C75 /* You Are Awesome */,
-				5E2E0E072EBBF05D00E26C75 /* Products */,
+				5E2E0E1F2EBBF13700E26C75 /* You Are Awesome */,
+				5E2E0E1E2EBBF13700E26C75 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		5E2E0E072EBBF05D00E26C75 /* Products */ = {
+		5E2E0E1E2EBBF13700E26C75 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5E2E0E062EBBF05D00E26C75 /* You Are Awesome.app */,
+				5E2E0E1D2EBBF13700E26C75 /* You Are Awesome.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		5E2E0E052EBBF05D00E26C75 /* You Are Awesome */ = {
+		5E2E0E1C2EBBF13700E26C75 /* You Are Awesome */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 5E2E0E112EBBF06000E26C75 /* Build configuration list for PBXNativeTarget "You Are Awesome" */;
+			buildConfigurationList = 5E2E0E282EBBF13A00E26C75 /* Build configuration list for PBXNativeTarget "You Are Awesome" */;
 			buildPhases = (
-				5E2E0E022EBBF05D00E26C75 /* Sources */,
-				5E2E0E032EBBF05D00E26C75 /* Frameworks */,
-				5E2E0E042EBBF05D00E26C75 /* Resources */,
+				5E2E0E192EBBF13700E26C75 /* Sources */,
+				5E2E0E1A2EBBF13700E26C75 /* Frameworks */,
+				5E2E0E1B2EBBF13700E26C75 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				5E2E0E082EBBF05D00E26C75 /* You Are Awesome */,
+				5E2E0E1F2EBBF13700E26C75 /* You Are Awesome */,
 			);
 			name = "You Are Awesome";
 			packageProductDependencies = (
 			);
 			productName = "You Are Awesome";
-			productReference = 5E2E0E062EBBF05D00E26C75 /* You Are Awesome.app */;
+			productReference = 5E2E0E1D2EBBF13700E26C75 /* You Are Awesome.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		5E2E0DFE2EBBF05D00E26C75 /* Project object */ = {
+		5E2E0E152EBBF13700E26C75 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
-					5E2E0E052EBBF05D00E26C75 = {
+					5E2E0E1C2EBBF13700E26C75 = {
 						CreatedOnToolsVersion = 16.4;
 					};
 				};
 			};
-			buildConfigurationList = 5E2E0E012EBBF05D00E26C75 /* Build configuration list for PBXProject "You Are Awesome" */;
+			buildConfigurationList = 5E2E0E182EBBF13700E26C75 /* Build configuration list for PBXProject "You Are Awesome" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 5E2E0DFD2EBBF05D00E26C75;
+			mainGroup = 5E2E0E142EBBF13700E26C75;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 5E2E0E072EBBF05D00E26C75 /* Products */;
+			productRefGroup = 5E2E0E1E2EBBF13700E26C75 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				5E2E0E052EBBF05D00E26C75 /* You Are Awesome */,
+				5E2E0E1C2EBBF13700E26C75 /* You Are Awesome */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5E2E0E042EBBF05D00E26C75 /* Resources */ = {
+		5E2E0E1B2EBBF13700E26C75 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		5E2E0E022EBBF05D00E26C75 /* Sources */ = {
+		5E2E0E192EBBF13700E26C75 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		5E2E0E0F2EBBF06000E26C75 /* Debug */ = {
+		5E2E0E262EBBF13A00E26C75 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -189,7 +189,7 @@
 			};
 			name = Debug;
 		};
-		5E2E0E102EBBF06000E26C75 /* Release */ = {
+		5E2E0E272EBBF13A00E26C75 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -246,7 +246,7 @@
 			};
 			name = Release;
 		};
-		5E2E0E122EBBF06000E26C75 /* Debug */ = {
+		5E2E0E292EBBF13A00E26C75 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -274,7 +274,7 @@
 			};
 			name = Debug;
 		};
-		5E2E0E132EBBF06000E26C75 /* Release */ = {
+		5E2E0E2A2EBBF13A00E26C75 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -305,25 +305,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		5E2E0E012EBBF05D00E26C75 /* Build configuration list for PBXProject "You Are Awesome" */ = {
+		5E2E0E182EBBF13700E26C75 /* Build configuration list for PBXProject "You Are Awesome" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5E2E0E0F2EBBF06000E26C75 /* Debug */,
-				5E2E0E102EBBF06000E26C75 /* Release */,
+				5E2E0E262EBBF13A00E26C75 /* Debug */,
+				5E2E0E272EBBF13A00E26C75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		5E2E0E112EBBF06000E26C75 /* Build configuration list for PBXNativeTarget "You Are Awesome" */ = {
+		5E2E0E282EBBF13A00E26C75 /* Build configuration list for PBXNativeTarget "You Are Awesome" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				5E2E0E122EBBF06000E26C75 /* Debug */,
-				5E2E0E132EBBF06000E26C75 /* Release */,
+				5E2E0E292EBBF13A00E26C75 /* Debug */,
+				5E2E0E2A2EBBF13A00E26C75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 5E2E0DFE2EBBF05D00E26C75 /* Project object */;
+	rootObject = 5E2E0E152EBBF13700E26C75 /* Project object */;
 }
